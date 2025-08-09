@@ -1,0 +1,5 @@
+local_mode: true
+service_name: "YC_agent"
+github_owner: "yannaner"
+github_repo_name: "YC_agents"
+github_commit_hash: "main"
